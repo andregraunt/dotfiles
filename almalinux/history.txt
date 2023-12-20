@@ -1,0 +1,974 @@
+    1  systemctl enable --now cockpit.socket
+    2  speedtest
+    3  ps
+    4  pdf update
+    5  dnf update
+    6  df -h
+    7  dnf install vim
+    8  vim
+    9  dnf install nvimvim
+   10  dnf install neovimvim
+   11  dnf install neovim
+   12  dnf search speedtest
+   13  dnf install speedtest-cli
+   14  speedtest-cli
+   15  w -i
+   16  nvim
+   17  passswd
+   18  passwd
+   19  exit
+   20  python3 --version
+   21  glances
+   22  uname -a
+   23  dnf install php
+   24  cd /home
+   25  ls
+   26  dnf install nodejs
+   27  dnf install npm
+   28  npm -v
+   29  nodejs -v
+   30  node -v
+   31  dnf search rust
+   32  dnf info rust
+   33  dnf install rust
+   34  cargo install tree-sitter-cli
+   35  dnf info cargo
+   36  dnf install cargo
+   37  cargo install tree-sitter-cli
+   38  dnf install golang
+   39  go --version
+   40  go version
+   41  mv ~/.config/nvim ~/.config/nvim.bak
+   42  mv ~/.local/share/nvim ~/.local/share/nvim.bak
+   43  mv ~/.local/state/nvim ~/.local/state/nvim.bak
+   44  mv ~/.cache/nvim ~/.cache/nvim.bak
+   45  git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+   46  nvim
+   47  dnf install tmux curl zip unzip
+   48  tmux new -s php_test
+   49  tmux attach -t php_test
+   50  ps -la
+   51  netstat 
+   52  netstat -pln
+   53  netstat -tln
+   54  dnf install neofetch
+   55  neofetch
+   56  exit
+   57  service --status-All
+   58  service --status-all
+   59  systemctl --status-all
+   60  systemctl status
+   61  dnf search docker
+   62  tmux attach -t php_test
+   63  sudo dnf --refresh update
+   64  sudo dnf upgrade
+   65  sudo dnf install yum-utils
+   66  sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+   67  sudo dnf install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+   68  sudo systemctl start docker
+   69  sudo systemctl enable docker
+   70  sudo systemctl status docker
+   71  docker version
+   72  go version
+   73  sudo docker run hello-world
+   74  docker ps
+   75  tmux new -s docker
+   76  ps -la
+   77  dnf install php-fmp
+   78  dnf install php-fpm
+   79  php-fpm --version
+   80  clances
+   81  glances
+   82  cd /home
+   83  ls
+   84  glances
+   85  neofetch
+   86  dnf install aria2
+   87  dnf install git
+   88  dig nowayno.info
+   89  dnf install caddy
+   90  systemctl start caddy
+   91  tmux attach -t php_test
+   92  systemctl start caddy
+   93  history
+   94  sudo systemctl enable docker
+   95  sudo systemctl enable caddy
+   96  dnf install ruby
+   97  sudo dnf check-update
+   98   sudo dnf update
+   99   sudo dnf upgrade
+  100  python3 -m pip --version
+  101  pip --version
+  102  python3 --version
+  103  ruby -v
+  104  cd paralax/webpy/
+  105  cd /home/paralax/webpy/
+  106  who
+  107  ls
+  108  pip install -r requirements.txt
+  109  ls
+  110  python3 notmain.py 
+  111  tmux new -s webpy
+  112  npm install -g http-server
+  113  npm install -g npm@10.1.0
+  114  cd ..
+  115  tmux new -s paralax
+  116  cd game2048/
+  117  tmux new -s 2048
+  118  cd ..
+  119  tmux new -s telegram
+  120  cd crowl/
+  121  ls
+  122  tmux ls
+  123  tmux attach -t 2048
+  124  http-server -p 2001
+  125  tmux ls
+  126  tmux new -s crowl
+  127  tmux attach -t paralax
+  128  nvim
+  129  tmux attach -t paralax
+  130  nvim
+  131  tmux attach -t paralax
+  132  tmux ls
+  133  cd ..
+  134  nvim
+  135  systemctl reopen caddy
+  136  systemctl reload caddy
+  137  glances
+  138  ps -ls
+  139  ps -la
+  140  speedtest-cli --json
+  141  speedtest-cli --json -h
+  142  speedtest.run
+  143  npm install -g speedtest-ctl
+  144  npm install --global speedtest-net
+  145  npm audit fix --force
+  146  speedtest_cli
+  147  speedtest
+  148  speedtest-cli
+  149  npm install --global fast-cli
+  150  fast
+  151  fast --upload
+  152  dnf install fast-cli
+  153  dnf install fast
+  154  dnf install fast_cli
+  155  dnf install speedtest-net
+  156  cd /home
+  157  git clone https://github.com/AsmrProg-YT/100-days-of-javascript/tree/master/Day%20%2340%20-%20Detect%20Internet%20Speed.git
+  158  git clone https://github.com/AsmrProg-YT/100-days-of-javascript.git
+  159  ls
+  160  cd 100-days-of-javascript/
+  161  ls
+  162  cd 'Day #40 - Detect Internet Speed'/
+  163  ls
+  164  tmux new -s speed
+  165  cd /home/php_test
+  166  ls
+  167  git clone https://github.com/Mohammedcha/Net-speed-test.git
+  168  ls
+  169  ping localhost
+  170  curl nowayno.info
+  171  curl localhost
+  172  curl nowayno.info
+  173  curl bbb.nowayno.info
+  174  curl www.nowayno.info
+  175  ping nowayno.info
+  176  fast
+  177  fast --help
+  178  fast --json
+  179  fast --upload > file && cat file
+  180  npm install --global fast-cli
+  181  fast
+  182  fast-cli
+  183  npm remove -g fast-cli
+  184  speedtest
+  185  speedtest-cli
+  186  glances
+  187  tmux attach -t speed
+  188  tmux ls
+  189  glances 
+  190  mc
+  191  dnf install mc
+  192  mc
+  193  ps
+  194  ps -la
+  195  who
+  196  w -i
+  197  netstat -tln
+  198  curl 127.0.0.1:2019
+  199  curl localhost:2019
+  200  dnf refresh
+  201  dnf update
+  202  glunces
+  203  glances
+  204  exit
+  205  ps
+  206  ps -la
+  207  netstat -pln
+  208  netstat -tpl
+  209  tram
+  210  netstat -tp
+  211  w -i
+  212  netstat -tp
+  213  netstat -ptl
+  214  netstat -tn
+  215  netstat -ptl
+  216  netstat -tln
+  217  netstat -tl
+  218  netstat -tp
+  219  netstat -t
+  220  netstat -plt
+  221  netstat -tln
+  222  netstat -pl
+  223  ls
+  224  speedtest-cli
+  225  speedtest-cli -simple
+  226  speedtest-cli --simple
+  227  speedtest-cli --simple -h
+  228  speedtest-cli -h
+  229  speedtest-cli --simple 
+  230  speedtest-cli --simple -h
+  231  speedtest-cli --csv
+  232  speedtest-cli -h
+  233  speedtest-cli --bytes
+  234  speedtest-cli -h
+  235  speedtest-cli --single
+  236  glances
+  237  aria2
+  238  dnf install aria2
+  239  cd ..
+  240  .
+  241  .code
+  242  ls
+  243  aria2c http://d.rutor.info/download/944241
+  244  ls
+  245  glances
+  246  mc
+  247  glances
+  248  nvim
+  249  ls
+  250  cd /home
+  251  ls
+  252  speedtest-cli
+  253  dnf update
+  254  dnf upgrade
+  255  speedtest-cli
+  256  speedtest-cli --bytes
+  257  dnf reinstall speedtest-cli
+  258  speedtest-cli
+  259  speedtest-cli --simple
+  260  df -h
+  261  glances
+  262  df -h
+  263  dnf update
+  264  neofetch
+  265  nvim
+  266  cd /home
+  267  ls
+  268  netstat -pln
+  269  netstat -h
+  270  netstat -a
+  271  netstat -tln
+  272  nvim
+  273  glances
+  274  df -h
+  275  tmux la
+  276  tmux ls
+  277  http-server -p 2002
+  278  pwd
+  279  http-server -p 2002
+  280  cd ..
+  281  ls
+  282  cd 'Day #21 - Spin Wheel App'/
+  283  ls
+  284  dnf search pm2
+  285  npm search pm2
+  286  npm info pm2
+  287  npm install -g pm2
+  288  pm2 run index.html
+  289  pm2 start index.html
+  290  pm2 start index.js
+  291  pm2 status
+  292  pm2 logs
+  293  http-server -p 2002
+  294  pwd
+  295  http-server -p 2001
+  296  cd /home/100-days-of-javascript/Day #21 - Spin Wheel App
+  297  pwd
+  298  cd ..
+  299  ls
+  300  cd /home/100-days-of-javascript/Day #21 - Spin Wheel App
+  301  cd ..
+  302  cd /home/100-days-of-javascript/Day #21 - Spin Wheel App
+  303  ls
+  304  cd /home/100-days-of-javascript/Day #21 - Spin Wheel App
+  305  cd /home
+  306  tmux ls
+  307  speedtest-cli --simple
+  308  speedtest-cli
+  309  speedtest-cli --simple
+  310  glances 
+  311  cd /home
+  312  tmux new -s torrent
+  313  tmux attach -t torrent
+  314  tmux ls
+  315  tmux ls
+  316  tmux attach -t speed
+  317  tmux attach -t crowl
+  318  cd /home/
+  319  tmux new -s talia
+  320  tmux new -s 100
+  321  tmux ls 
+  322  systemctl reload caddy
+  323  neofetch
+  324  glances
+  325  speedtest -cli
+  326  speedtest-cli
+  327  speedtest-cli --simple
+  328  tmux attach -t torrent
+  329  ps -la
+  330  netstat -tln
+  331  ps -la
+  332  kill -9 96133
+  333  ps -la
+  334  netstat -ptl
+  335  glances
+  336  kill -9 96230
+  337  netstat -ptl
+  338  glances
+  339  cd /home/100-days-of-javascript/
+  340  tmux new -s torrent
+  341  ps -la
+  342  cd /home
+  343  git clone https://github.com/VladislavGroniuk/Php-crash-course.git
+  344  ls
+  345  cd Php-crash-course/
+  346  php -S one.nowayno.info
+  347  php -S one.nowayno.info:2200
+  348  php -S onggg.nowayno.info:2200
+  349  cd /home
+  350  git clone https://github.com/VladislavGroniuk/laravel-crash-course.git
+  351  cd laravel-crash-course/
+  352  php -S one.nowayno.info:2200
+  353  cd /home
+  354  git clone https://github.com/m1nyasha/php-simple-uploader.git
+  355  cd php-simple-uploader/
+  356  php -S one.nowayno.info:2200
+  357  cd /home
+  358  cd laravel-crash-course/
+  359  php artisan serve
+  360  dnf search composer
+  361  dnf install composer
+  362  php artisan serve
+  363  composer install
+  364  php artisan serve
+  365  composer --version
+  366  sudo dnf install php php-cli php-mbstring php-dom php-xml php-zip php-json php-tokenizer php-pdo php-mysqlnd
+  367  php artisan serve
+  368  php -S localhost:8000/publick
+  369  php -S localhost:8000/public
+  370  php -S one.nowayno.info/public
+  371  php -S one.nowayno.info:8000
+  372  dnf search mysql
+  373  php artisan --help
+  374  artisan list
+  375  php artisan list
+  376  php-cli
+  377  dnf search php-cli
+  378  dnf install php-cli
+  379  php artisan serve
+  380  php artisan key:generate
+  381  php artisan serve
+  382  dnf install httpd mariadb-server php php-mysql
+  383  dnf install httpd mariadb-server 
+  384  phpenmod mysqli
+  385  dnf search phpenmod
+  386  systemctl start mariadb
+  387  systemctl enable mariadb
+  388  dnf install phpmyadmin
+  389  phpenmod mysqli
+  390  mysql
+  391  mysql_secure_installation
+  392  phpenmod mysqli
+  393  systemctl reload caddy
+  394  phpenmod php-mysqlnd
+  395  yum install php-cli
+  396  which phpenmod
+  397  php --ini
+  398  systemctl restart php-fpm
+  399  php -m | grep mysqlnd
+  400  systemctl restart php-fpm
+  401  php -m | grep mysqlnd
+  402  systemctl restart php-fpm
+  403  php -m | grep -e mysqlnd -e pdo_mysql
+  404  phpize
+  405  ./configure
+  406  make
+  407  yum remove php-pdo
+  408  dnf remofe php-pdo
+  409  dnf remove php-pdo
+  410  dnf install  php-pdo
+  411  phpize
+  412  ./configure
+  413  make
+  414  make install
+  415  phpize
+  416  ./configure
+  417  make
+  418  make install
+  419  yum install php-devel
+  420  yum remove php-pdo
+  421  yum install php-pdo
+  422  phpize
+  423  ./configure
+  424  make
+  425  make install
+  426  systemctl restart php-fpm
+  427  php -m | grep -e mysqlnd -e pdo_mysql
+  428  yum remove php php-fpm php-mysqlnd php-pdo
+  429  yum clean all
+  430  yum update
+  431  yum install php php-fpm php-mysqlnd php-pdo
+  432  yum install php-devel
+  433  systemctl restart php-fpm
+  434  php -m | grep -e mysqlnd -e pdo
+  435  phpenmod php-mysqlnd
+  436  cd /home/laravel-crash-course/
+  437  php artisan serve
+  438  dnf install phpmyadmin
+  439  php-fpm --version
+  440  history
+  441  systemctl restart php-fpm
+  442  mariadb
+  443  history
+  444  phpenmod php-mysqlnd
+  445  cd public
+  446  php -S one.nowayno.info:2200
+  447  cd ..
+  448  rpm -qa | grep mariadb
+  449  sudo dnf install php php-mysqlnd php-mbstring php-gd php-curl
+  450  sudo dnf install epel-release
+  451  sudo dnf install phpMyAdmin
+  452  sudo chown -R caddy:caddy /usr/share/phpMyAdmin
+  453  systemctl reload caddy
+  454  sudo chown -R apache:apache /usr/share/phpMyAdmin
+  455  sudo systemctl enable httpd
+  456  sudo systemctl restart httpd
+  457  systemctl reload caddy
+  458  sudo systemctl restart httpd
+  459  sudo systemctl start httpd
+  460  sudo systemctl restart caddy
+  461  witch php
+  462  which php
+  463  which phpmyadmin
+  464  dnf install phpmyadmin
+  465  which phpMyAdmin
+  466  Package phpMyAdmin-5.2.1-1.el9.noarch is already installed.
+  467  Dependencies resolved.
+  468  Nothing to do.
+  469  Complete!
+  470  [root@alma ~]# which phpMyAdmin
+  471  /usr/bin/which: no phpMyAdmin in (/root/.local/bin:/root/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin)sudo find / -name phpMyAdmin
+  472  sudo find / -name phpMyAdmin
+  473  systemctl reload caddy
+  474  cd /user
+  475  ls
+  476  cd /
+  477  la
+  478  ls
+  479  cd usr/share/phpMyAdmin
+  480  php -S one.nowayno.info:2200
+  481  mysql
+  482  mariadb
+  483  systemctl reload caddy
+  484  systemctl status php-fpm
+  485  systemctl reload  php-fpm
+  486  systemctl reload  caddy
+  487  cd /usr/share/phpMyAdmin
+  488  tmux new -s phpmyadmin
+  489  systemctl reload caddy
+  490  cd /home
+  491  tmux new -s mysql
+  492  mariadb
+  493  CREATE DATABASE testDB;
+  494  mariadb
+  495  yum install http://rpms.remirepo.net/enterprise/remi-release-8.rpm
+  496  yum install http://rpms.remirepo.net/enterprise/remi-release-8.rpm --nobest
+  497  yum install http://rpms.remirepo.net/enterprise/remi-release-8.8-1.el8.remi
+  498  yum install php php-common php-opcache
+  499  yum install php-fpm php-mysqlnd php-gd php-mbstring php-xml php-json
+  500  systemctl start php-fpm
+  501  systemctl enable php-fpm
+  502  php -v
+  503  dnf install https://rpms.remirepo.net/enterprise/remi-release-9.rpm
+  504  dnf module reset php
+  505  dnf install php php-fpm php-common   php-opcache php-gd php-mysqlnd php-xml php-mbstring
+  506  php -v
+  507  dnf update php
+  508  dnf search php
+  509  dnf search php 8.2
+  510  dnf install php82
+  511  php -v
+  512  php --version
+  513  dnf update
+  514  dnf update php
+  515  sudo dnf install -y https://rpms.remirepo.net/enterprise/remi-release-9.rpm
+  516  sudo dnf module enable php:remi-8.2 -y
+  517  sudo dnf install -y php php-cli php-fpm
+  518  php -v
+  519  Для установки PHP 8.2 на Alma Linux 9, вам понадобится использовать сторонний репозиторий, так как PHP 8.2 не включен в официальные репозитории Alma Linux 9. Вот как вы можете выполнить эту задачу:
+  520  1. Добавьте репозиторий Remi:
+  521  ```
+  522  sudo dnf install -y https://rpms.remirepo.net/enterprise/remi-release-9.rpm
+  523  ```
+  524  2. Включите модуль PHP 8.2 из репозитория Remi:
+  525  ```
+  526  sudo dnf module enable php:remi-8.2 -y
+  527  ```
+  528  3. Установите PHP 8.2 и необходимые модули:
+  529  ```
+  530  sudo dnf install -y php php-cli php-fpm
+  531  ```
+  532  4. Проверьте установку, выполните команду:
+  533  ```
+  534  php -v
+  535  ```
+  536  Вы должны увидеть информацию о версии PHP, которая должна быть 8.2.x.
+  537  Это должно установить PHP 8.2 на вашу систему Alma Linux 9. Пожалуйста, имейте в виду, что PHP 8.2 находится в разработке на момент моего знания, и доступность пакетов может измениться. Убедитесь, что вы используете актуальные и проверенные источники пакетов перед установкой.
+  538  php -m | grep pdo_mysql
+  539  sudo yum install php-pdo php-mysql
+  540  php -v
+  541  php -m | grep pdo_mysql
+  542  ls /usr/lib64/php/modules/pdo_mysql.so
+  543  ls /usr/lib64/php/modules/[pdo_mysql.so](https://www.google.com/search?q=pdo_mysql.so)
+  544  ls /usr/lib64/php/modules/[pdo_mysql.so]
+  545  dnf reinstall php-pdo_mysql
+  546  dnf remove httpd
+  547  systemctl reload caddy
+  548  php -v
+  549  mariadb
+  550  SHOW databases;
+  551  mariadb
+  552  dnf install php-mysql
+  553  dnf install mariadb-server
+  554  install php-mysqlnd php-gd php-json php-mbstring php-xml php-imagick php-intl php-dom php-curl php-zip
+  555  dnf install php-mysqlnd php-gd php-json php-mbstring php-xml php-imagick php-intl php-dom php-curl php-zip
+  556  create database example_db default character set utf8 collate utf8_unicode_ci; 
+  557  create user 'example_user'@'localhost' identified by 'example_pw';
+  558  grant all privileges on example_db.* TO 'example_user'@'localhost';
+  559  flush privileges;
+  560  mysql
+  561  php -v
+  562  dnf install byop
+  563  dnf install btop
+  564  btop
+  565  ps -sa
+  566  ps -la
+  567  pwd
+  568  history
+  569  php -v
+  570  c ~
+  571  cd ~
+  572  pwd
+  573  ls
+  574  ls 'New Folder'/
+  575  cd /
+  576  ls
+  577  ls home
+  578  ls -la
+  579  ls -la home
+  580  speedtest-cli
+  581  ps -la
+  582  btop
+  583  glances
+  584  htop
+  585  top
+  586  w
+  587  data
+  588  date
+  589  date locale
+  590  time
+  591  w -a
+  592  w -la
+  593  w 
+  594  ps -la
+  595  history
+  596  ps -sa
+  597  nvim
+  598  history
+  599  cd home
+  600  ls
+  601  history > history.txt
+  602  cat history.txt 
+  603  nvim
+  604  exit
+  605  df -h
+  606  dnf update
+  607  dnf clear
+  608  dnf man
+  609  dnf help
+  610  df -h
+  611  dnf clean
+  612  go version
+  613  pwd
+  614  ls
+  615  cd /home
+  616  ls
+  617  cd torrent
+  618  tmux ls
+  619  tmux attach -t torrent
+  620  ps -la
+  621  jobs
+  622  sleep 15 && pwd &
+  623  jobs
+  624  sleep 15 && neofetch
+  625  dnf update
+  626  sleep 15 && neofetch 
+  627  dnf upgrade
+  628  jobs
+  629  sleep 15 && neofetch --time &
+  630  speedtest-cli
+  631  dnf update
+  632  speedtest-cli
+  633  while true; do echo hello world; sleep 1; done
+  634  counter=1; while true; do echo "hello world $counter"; let "counter++"; sleep 1; done
+  635  counter=1; while true; do echo "hello world $counter"; let "counter++"; sleep 1; done &
+  636  jobs
+  637  fg
+  638  ps
+  639  ps aux | grep "counter"
+  640  kill -9 1048030
+  641  ps -la
+  642  exit
+  643  sleep 100 &
+  644  jobs
+  645  fg %1
+  646  jobs
+  647  uname -a
+  648  cd Downloads
+  649  cd ~
+  650  cd Downloads
+  651  ls
+  652  cd /
+  653  ls
+  654  cd home
+  655  ls
+  656  exit
+  657  cd /
+  658  ls
+  659  cd home
+  660  ls
+  661  ls torrent
+  662  cd torrent
+  663  rm -rf 'Barbie.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]'/
+  664  cd ..
+  665  git clone https://gitlab.com/andregraunt/gopro
+  666  nvim
+  667  cd gopro/
+  668  go run .
+  669  nvim
+  670  go run .
+  671  go version
+  672  go run .
+  673  nvim
+  674  go run .
+  675  go version
+  676  nvim
+  677  go run .
+  678  go run main.go
+  679  nvim
+  680  go run main.go
+  681  go version
+  682  go run main.go
+  683  exit
+  684  cd /
+  685  nvim
+  686  exit
+  687  tmux ls
+  688  tmux attach -t 100
+  689  tmux ls
+  690  exit
+  691  tmux ls
+  692  tmux attach -t docker
+  693  cd /home
+  694  ls
+  695  cd gopro/
+  696  tmux new -s gopro
+  697  systemctl reload caddy
+  698  exit
+  699  tmux attach -t gopro
+  700  htop
+  701  btop
+  702  top
+  703  df -h
+  704  cd home
+  705  cd /
+  706  ls
+  707  cd home
+  708  mkdir rubytest
+  709  cd rubytest
+  710  touch 1test.rb
+  711  nvim
+  712  ls
+  713  ruby 1test.rb 
+  714  nvim
+  715  cd home
+  716  cd/home
+  717  cd /
+  718  cd home
+  719  nvim
+  720  speedtest-cli
+  721  neofetch
+  722  ps -la
+  723  speedtest
+  724  speedtest-cli
+  725  gloces
+  726  glances
+  727  dnf install fig
+  728  dnf update
+  729  yum update
+  730  ps -la
+  731  tldr
+  732  tldr htop
+  733  yum install tldr
+  734  tldr htop
+  735  tldr docker
+  736  tldr tmux
+  737  go version
+  738  tree
+  739  ls
+  740  pwd
+  741  cd ~
+  742  pwd
+  743  cd /
+  744  tree
+  745  cd ~
+  746  pwd
+  747  cd /home
+  748  ls
+  749  tldr tree
+  750  tree -d
+  751  tree -d gopro
+  752  tldr tree
+  753  tree -d /home
+  754  cd gopro
+  755  tree
+  756  ls
+  757  tldr ls
+  758  ls -l
+  759  ls -a
+  760  ls -la
+  761  tree
+  762  tree -a
+  763  tree -a -L 1
+  764  tree -a -L 2
+  765  tree  -L 2
+  766  tree  -l 2
+  767  tldr ls
+  768  ls -F
+  769  ls -lh
+  770  ls -h
+  771  ls -hl
+  772  du -h
+  773  ls -lha
+  774  nvim
+  775  tldr nvim
+  776  ps lah
+  777  ls la
+  778  ls -la
+  779  ps -lah
+  780  ps -la
+  781  ps -lah
+  782  node -V
+  783  node --V
+  784  nede --version
+  785  node --version
+  786  npm --version
+  787  npm install --global http-server
+  788  npm install -g npm@10.2.4
+  789  http-server --port 80
+  790  sudo http-server --port 80
+  791  http-server --port 80
+  792  http-server
+  793  tldr ps
+  794  ps auxww
+  795  ps aux
+  796  ps tmux
+  797  tldr ps
+  798  ps --sort size
+  799  ps -la
+  800  ps --sort size -h
+  801  find 8888
+  802  gr 8888
+  803  grep 8888
+  804  cd /etc/caddy
+  805  ls
+  806  ls Caddyfile
+  807  cd Caddyfile
+  808  nvim
+  809  history
+  810  tree -a -L 1
+  811  tree -L1
+  812  tree -L 1
+  813  cd /home
+  814  tree -L 1
+  815  cd /
+  816  tree -L 1
+  817  tree -L
+  818  tree -L 0
+  819  tree -L 1
+  820  pwd
+  821  whoami
+  822  w
+  823  tree -L 1
+  824  tldr tree
+  825  pwd
+  826  tree -a -C
+  827  tree -L 1 -C
+  828  tldr mv
+  829  tldr pwd
+  830  pwd --physical
+  831  pwd --logical
+  832  pwd
+  833  pwd man
+  834  pwd -h
+  835  pwd help
+  836  man pwd
+  837  help pwd
+  838  pwd -L
+  839  pwd
+  840  pwd -P
+  841  pwd 
+  842  ls
+  843  cd ~/
+  844  pwd
+  845  ls
+  846  whoami
+  847  cd /
+  848  pwd
+  849  tree -a -L 1
+  850  exit
+  851  tree -a -L 1
+  852  ls
+  853  pwd
+  854  ls
+  855  cd /home
+  856  tree -a -L 1
+  857  tldr ps
+  858  ps -l
+  859  ps -la
+  860  tldr ps
+  861  ps aux
+  862  ps aux -h
+  863  ps -lah
+  864  tmux ls
+  865  http-server
+  866  tmux ls
+  867  nvim
+  868  exit
+  869  df -h
+  870  cd /home
+  871  git clone https://github.com/Apress/JavaScript-for-web-developers.git
+  872  ls -h
+  873  cd JavaScript-for-web-developers/
+  874  ls
+  875  cd ~/home
+  876  cd /home
+  877  ls
+  878  git clone https://gitlab.com/andregraunt/go1ruby.git
+  879  ls go1ruby/
+  880  tmux ls
+  881  tmux attach -t 2048
+  882  cd /home
+  883  nvim
+  884  gim gonfig -l
+  885  git config -l
+  886  cd go1ruby/
+  887  git status
+  888  git add .
+  889  git commit -m "html game"
+  890  git push
+  891   jjti
+  892  demj w
+  893  e
+  894  kdoee
+  895  kwm 2  
+  896  w
+  897      3
+  898  2
+  899  dnf update
+  900  df -h
+  901  exit
+  902  tmux attach -t torrent
+  903  tldr yt-dlp
+  904  tmux attach -t torrent
+  905  cd /home
+  906  git clone https://gitlab.com/andregraunt/dotfile.git
+  907  exit
+  908  systemctl reload caddy
+  909  cd /home
+  910  git clone https://gitlab.com/andregraunt/go1ruby.git
+  911  tmux ls
+  912  tmux attach -t 100
+  913  tmux new -s nahman
+  914  cd /home
+  915  tmux attach -t nahman
+  916  cd /home/go1ruby/
+  917  git status
+  918  git add .
+  919  git commit -m "nahmanindex"
+  920  git push
+  921  dnf update
+  922  speedtest
+  923  speedtest-cli
+  924  date
+  925  glances
+  926  tldr glances
+  927  glances -w
+  928  tmux new -s glances
+  929  cd /
+  930  nvim
+  931  systemctl reopen caddy
+  932  systemctl reload caddy
+  933  tmux ls -la
+  934  tmux ls -lh
+  935  tmux ls -h
+  936  tmux ls -a
+  937  tmux ls 
+  938  tmux ls
+  939  ps -lah
+  940  cd /home/
+  941  ls
+  942  tmux ls > tmux.txt
+  943  ps -lah >> tmux.txt
+  944  cat tmux.txt 
+  945  nvim 
+  946  systemctl reload caddy
+  947  speedtest-cli
+  948  exit
+  949  tmux attach -t paralax
+  950  tmux attach -t torrent
+  951  killall aria2c
+  952  cd /home/
+  953  cd dotfile
+  954  ls
+  955  cd ..
+  956  rm -rf dotfile
+  957  git clone https://gitlab.com/andregraunt/dotfile.git
+  958  cd dotfile
+  959  ls
+  960  ruby ytdlp.rb
+  961  ls
+  962  mv '02 Ruby Learning Path Strings [W52LnV7s-t8].mp4' /home/bookbook/
+  963  cp ytdlp.rb /home/boobook
+  964  ls
+  965  cd /home/bookbook
+  966  ls
+  967  ruby ytdlp.rb
+  968  du -sh
+  969  df -h
+  970  tmux ls
+  971  cd /home
+  972  ls
+  973  tmux ls > tmux.txt
+  974  history > history.txt

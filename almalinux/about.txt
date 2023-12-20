@@ -1,0 +1,81 @@
+Урок 18
+* GET/POST запросы
+* задача: программа для подбора пароля
+Примечание: Для 18 урока используйте докер-контейнер, который устанавливается командой: docker rm xxx; docker run -it --name xxx -p 4567:4567 ro31337/rubybook-save-the-world После этого у вас будет доступен локальный сервер по адресу http://localhost:4567
+Если непонятно, что написано, то читаем ниже:
+* скачиваешь программу Docker, устанавливаешь
+* из консоли запускаешь команду - вот эту длинную, что на сайте rubyschool.us (см.сноску для 18 урока). Если ты на винде, то запускай по отдельности то, что разделено точкой с запятой (даже если дает ошибку): docker rm xxx, потом docker run -it --name xxx -p 4567:4567 ro31337/rubybook-save-the-world
+* что-то качается и у тебя будет доступен адрес из браузера http://localhost:4567
+* docker rm xxx; docker run -it --name xxx -p 4567:4567 ro31337/rubybook-save-the-world
+https://ru.m.wikibooks.org/wiki/Ruby ruby wikibooks
+
+The Bastards Book of Ruby
+
+http://ruby.bastardsbook.com/toc/
+
+
+
+http://learnruby.snitko.ru
+
+https://try.ruby-lang.org/
+
+Что такое Svelte и почему веб-разработчикам стоит обратить на него внимание
+https://timeweb.com/ru/community/articles/chto-takoe-svelte
+
+
+//  .vscode - tikiya
+   settings.json - kovez
+{
+    "liveServer.settings.port": 1001
+}
+
+Roman pushkin
+
+
+100: 1 windows (created Wed Sep 27 10:07:48 2023)
+   /home/bookbook   -->> http-server -p 2100
+   go.noway
+
+ 
+2048: 1 windows (created Sat Sep 23 18:38:54 2023)
+   2048 - hila
+   /home/go1ruby/game_html
+    -> http-server -p 2048
+
+
+docker: 1 windows (created Sat Sep 23 17:49:21 2023)
+urok 18 --> 4567.noway
+  docker rm xxx; docker run -it --name xxx -p 4567:4567 
+  ro31337/rubybook-save-the-world
+
+  docker rm xxx; docker run -it --name xxx -p 4567:4567 ro31337/rubybook-save-the-world
+
+
+glances: 1 windows (created Mon Dec 11 20:48:16 2023)
+    glances -w
+
+gopro: 1 windows (created Tue Nov 14 13:29:48 2023)
+
+mysql: 1 windows (created Sun Oct  1 04:06:58 2023)
+
+nahman: 1 windows (created Mon Dec 11 16:24:59 2023)
+
+paralax: 1 windows (created Sat Sep 23 18:37:09 2023)
+
+php_test: 1 windows (created Sat Sep 23 15:18:42 2023)
+   -->> no.noway
+
+phpmyadmin: 1 windows (created Sat Sep 30 20:56:49 2023)
+
+talia: 1 windows (created Wed Sep 27 10:02:06 2023)
+    100 project js --> talia.noway
+
+telegram: 1 windows (created Sat Sep 23 18:39:54 2023)
+
+torrent: 1 windows (created Wed Sep 27 16:58:55 2023)
+aria2c 
+
+webpy: 1 windows (created Sat Sep 23 18:29:59 2023)
+ python3 -m http.server
+
+
