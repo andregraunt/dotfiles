@@ -5,7 +5,8 @@
 # elixir elexir 594
 https://wunsh.ru/docs/modules-and-functions.html
 
-
+# http://alleng.net/english/engl.htm
+# https://cxem.net/calc/calc.php
 
 
 # https://habr.com/ru/articles/778542/
@@ -25,8 +26,8 @@ matrix in Safari
 data:text/html,%3Cbody%20style=margin:0%3E%3Ccanvas%20id=q%20/%3E%3Cscript%3Evar%20q=document.getElementById('q'),s=window.screen,w=q.width=s.width,h=q.height=s.height,p=Array(256).join(1).split(''),c=q.getContext('2d'),m=Math;setInterval(function()%7Bc.fillStyle='rgba(0,0,0,0.05)';c.fillRect(0,0,w,h);c.fillStyle='rgba(0,255,0,1)';p=p.map(function(v,i)%7Br=m.random();c.fillText(String.fromCharCode(m.floor(2720+r*33)),i*10,v);v+=10;%20return%20v%3E768+r*1e4?0:v%7D)%7D,33)%3C/script%3E
 
 curl localhost:80
-ps4     smitsmit101@ - imya psn-id
- ab7.8.9. - kod
+ps4  ps5 ps 4   smitsmit101@ - imya psn-id
+ ab7..... - kod
 pif paf 05.05.1981 tel-aviv
 9452546 Jerusalem Jerusalem
 social club rdr2
@@ -116,7 +117,6 @@ ezraezraezra10@
 kod smitsmit...
 High Performance SSD Cloud.
 
-64.176.173.93 
 
 01.10.23 raanun
 
@@ -229,3 +229,54 @@ dig bbb.nowayno.info
 
 open -n -a "Wake Up Time"
 open -a Safari    open -n -a Safari
+
+bituah leumi
+8495199
+ cod codik codic kod
+kod le maskoret 5494 avoda
+reshef bitahon reshet lior 
+sisma
+B76WDY66
+kodik code sisma
+ABC7..8.....
+mi 03.04.2019   ab778...
+mi 07.10.2019 smitsmit10
+github andregraunt
+smitsmit101@
+aBc7........
+ps4 ps5 ps 4 ps 5
+playstashion 4
+smismit101@ 
+ab7.....
+21.12.202? smitsmit11
+gitlab andregraunt abc7........
+ andregraunt@
+mi 22.03.2020  bituahsamsa101
+mi 22.06.2023 smitsmit10 bituah
+kodik code sisma
+paypal turistomore abc456...
+paypal andregraunt abc7........?
+
+namecheap
+andregraunt — user name
+abc7……..
+vultr ezraezraezra10@
+
+ cloudflare turistomore abc.........$
+
+sisma ishit le shimush be teudat zeut 
+le zoreh izdaut be ofen elektroni 
+8322
+go.gov.il/ZihuiID 
+https://www.gov.il/he/departments/guides/software_smartid?chapterIndex=1&utm_source=go.gov.il&utm_medium=referral
+
+sisma leshehrur naila leizdaot be ofen elektroni  
+452844
+
+misrad apnim mimshelet gov id And$991...8 misradim kabinet
+and.re2@hotmail.com
+ezraezraezra10@
+and.re2@outlook.com
+abc7........
+xbox.com smogismogi6000
+smogi smogi

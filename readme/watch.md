@@ -1,7 +1,8 @@
 watch
 while :; do clear;watch -n 1 date; sleep 5;done
 
-
+ # http://alleng.net/english/engl.htm
+ # https://cxem.net/calc/calc.php
 killall Notes 
 how to HACK a password // password cracking with Kali Linux and HashCat
 NetworkChuck
