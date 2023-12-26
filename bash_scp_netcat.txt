@@ -1,0 +1,130 @@
+
+ssh scp bash netcat nmap-ncat nc du -sh watch 
+Копирование файлов и запуск команд через SSH     scp
+watch "du -h db. sal"
+
+Копирование файлов и запуск команд через SSH
+Как загрузить файл с сервера с помощью SSH SCP
+//
+du -sh /// kama godel be megabayt
+//
+scp myfile root@gonago.ml:/home
+ ///lishloah le ubuntu im ata nimza be oto directory, nagid be 
+Downloads be macos///
+//
+scp root@gonago.ml:/home/testServeNpx.zip ~/Desktop
+/// lakahat mi server ubuntu
+//
+
+
+Эффективно копируем гигабайтные файлы по сети в Linux / Unix / Mac OS
+nc прикольно. есть ещё rcp, оно может копировать без шифрования (или для scp задать шифрование слабее дефолтного, чтобы меньше процессор грузить, в него обычно упирается скорость). А ещё можно на стороне источника взмахом пера поднять питонячий вебсервер (с корнем в каталоге где запускается команда, по умолчанию на порту 8000 и всех доступных интерфейсах, но можно задать если надо) и с него по http забрать любым удобным клиентом.
+python -m $(python -c 'import sys; print("http.server" if sys.version_info[:2] > (2,7) else "SimpleHTTPServer")')
+Serving HTTP on 0.0.0.0 port 8000 ...
+
+dnf install nmap-ncat
+tldr ncat
+nc -lp 8885 < maleficent_2.mp4
+brew install netcat
+tldr nc
+ (on macbook) $ nc no.nowayno.info 8885 > malifecent2.mp4
+watch "du -sh malifesent.mp4"
+
+
+SCP Команда Linux для Удалённого Копирования Файлов
+
+hashuv
+1067604541913
+9915948
+04132088134
+store.playstation billing address 
+Yafo 72
+Tel Aviv, Israel
+587623, Israel
+
+bank  - One Zero  
+menora
+תגמולים ופיצויים
+מספר חשבון 70525504
+
+cody.ns.cloudflare.com
+violet.ns.cloudflare.com
+
+nowayno.info abc7........
+
+time scp -r root@no.nowayno.info:/home /home/bbb --< lakahat vsu papku /home
+
+24.12  16:25
+ me/andregraunt
+ me/turistomore
+
+digital ocean on ezraezraezra10
+namecheap on ezraezraezra10
+cloudflare ezraezraezra10 code abc7........$
+9213 kaspomat yaav 7881 0525
+
+docker rm xxx; docker run -it --name xxx -p 4567:4567 ro31337/rubybook-save-the-world
+64.176.173.93 alma
+arch linux
+Понятно, вы уже имеете другую конфигурацию PAM (Pluggable Authentication Modules). В этом случае вам необходимо изменить настройки PAM для разрешения использования слабых паролей. Следуйте этим шагам:
+
+1. Откройте терминал на вашей системе.
+
+2. Введите следующую команду для открытия файла `/etc/pam.d/passwd` в текстовом редакторе:
+```
+sudo nano /etc/pam.d/passwd
+```
+
+3. В открывшемся редакторе найдите строки, содержащие `pam_pwquality.so` или `pam_cracklib.so`. Комментируйте эти строки, добавив символ `#` в начало каждой строки, чтобы они выглядели примерно так:
+```
+#password   requisite  pam_pwquality.so ...
+#password   requisite  pam_cracklib.so ...
+```
+
+4. Сохраните изменения, нажав `Ctrl + O`, а затем закройте редактор, нажав `Ctrl + X`.
+
+5. Теперь вы можете изменить пароль суперпользователя (root) на простой 4-значный пароль, выполнив следующую команду:
+```
+sudo passwd root
+```
+
+sudo pacman -Su --noconfirm
+```
+
+Флаг `--noconfirm` гарантирует, что обновление будет выполнено без запроса подтверждения от вас.
+//
+useradd username
+passwd username 
+usermod -aG sudo username
+При использовании команды usermod -aG sudo username возможно получить ошибку, т.к. группа sudo может быть определена как system-group и не разрешать добавление в нее новых пользователей.
+
+В этом случае нужно использовать другой подход:
+
+1. Создайте новую группу для пользователей с правами sudo:
+
+```
+groupadd sudogroup
+```
+
+2. Добавьте пользователя в эту группу: 
+
+```
+usermod -aG sudogroup username
+```
+
+3. Отредактируйте файл /etc/sudoers:
+
+```
+visudo
+```
+
+4. Добавьте строку:
+
+```
+%sudogroup ALL=(ALL) ALL
+```
+Теперь все пользователи из группы sudogroup смогут использовать sudo без пароля.
+Этот подход позволяет обойти ограничение system-group для группы sudo и предоставить нужные права конкретному пользователю. При этом сохраняется контроль через принадлежность к созданной группе.
+
+
+
