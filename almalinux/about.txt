@@ -38,7 +38,7 @@ Roman pushkin
 
  
 2048: 1 windows (created Sat Sep 23 18:38:54 2023)
-   2048 - hila
+   hila.now
    /home/go1ruby/game_html
     -> http-server -p 2048
 
@@ -53,29 +53,162 @@ urok 18 --> 4567.noway
 
 glances: 1 windows (created Mon Dec 11 20:48:16 2023)
     glances -w
+    glances.now
 
 gopro: 1 windows (created Tue Nov 14 13:29:48 2023)
-
+pwd
+/home/gopro  ==>>  ./main or go run .
+to.now
+//
+http://one.noway:9001
+not working - {
 mysql: 1 windows (created Sun Oct  1 04:06:58 2023)
-
+pwd
+/home   ==>> ????
+ php -S one.noway:9001
+ which mysql? mariadb
+/usr/bin/mysql?  , 
+ => cd /usr/share/mariadb
+}
+//
 nahman: 1 windows (created Mon Dec 11 16:24:59 2023)
+ pwd
+/home/go1ruby =>> python3 -m http.server 2345
+nahman.now
 
 paralax: 1 windows (created Sat Sep 23 18:37:09 2023)
+go server06.go
+noway
 
 php_test: 1 windows (created Sat Sep 23 15:18:42 2023)
    -->> no.noway
+   pwd
+/home/php_test
+php -S localhost:8888
+
 
 phpmyadmin: 1 windows (created Sat Sep 30 20:56:49 2023)
+ http://one.noway:9000 
+pwd -> pwd
+/usr/share/phpMyAdmin   =>
+=> php -S one.nowayno.info:9000
+or  php -S localhost:9000 -t . (dot)
+
+on macos brew install php php-fpm
+ brew services start php
+ brew services list
 
 talia: 1 windows (created Wed Sep 27 10:02:06 2023)
     100 project js --> talia.noway
 
 telegram: 1 windows (created Sat Sep 23 18:39:54 2023)
+cd telegram ruby main.rb
 
 torrent: 1 windows (created Wed Sep 27 16:58:55 2023)
-aria2c 
+aria2c aria2
 
 webpy: 1 windows (created Sat Sep 23 18:29:59 2023)
- python3 -m http.server
+ pwd /home/paralax/webpy  python3 notmain.py
 
+
+           Caddyfile
+
+# The Caddyfile is an easy way to configure your Caddy web server.
+#
+# https://caddyserver.com/docs/caddyfile
+
+
+# The configuration below serves a welcome page over HTTP on port 80.  To use
+# your own domain name with automatic HTTPS, ensure your A/AAAA DNS record is
+# pointing to this machine's public IP, then replace `http://` with your domain
+# name.  Refer to the documentation for full instructions on the address
+# specification.
+#
+# https://caddyserver.com/docs/caddyfile/concepts#addresses
+ http:// {
+    
+    # php_fastcgi unix//run/php-fpm/php-fpm.sock
+    # root  * /usr/share/phpMyAdmin
+    
+
+    # Set this path to your site's directory.
+    root * /usr/share/caddy
+
+    # Enable the static file server.
+    file_server
+
+    # Another common task is to set up a reverse proxy:
+    # reverse_proxy localhost:8080
+
+    # Or serve a PHP site through php-fpm:
+    php_fastcgi localhost:9000
+       
+
+    # Refer to the directive documentation for more options.
+    # https://caddyserver.com/docs/caddyfile/directives
+
+}
+nowayno.info {
+
+file_server
+     reverse_proxy localhost:3000
+}
+
+no.nowayno.info {
+php_fastcgi
+file_server
+     reverse_proxy localhost:8888
+
+}
+
+bbb.nowayno.info {
+
+file_server
+     reverse_proxy localhost:2000
+     }
+ glances.nowayno.info {
+
+file_server
+     reverse_proxy localhost:61208
+
+}
+nahman.nowayno.info {
+
+file_server
+     reverse_proxy localhost:2345
+}
+hila.nowayno.info {
+
+file_server
+     reverse_proxy localhost:2048
+}
+
+talia.nowayno.info {
+
+file_server
+     reverse_proxy localhost:2001
+}
+
+4567.nowayno.info {
+
+file_server
+     reverse_proxy localhost:4567
+}
+
+go.nowayno.info {
+
+file_server
+     reverse_proxy localhost:2100
+}
+to.nowayno.info {
+
+file_server
+     reverse_proxy localhost:7890
+}
+
+
+# As an alternative to editing the above site block, you can add your own site
+# block files in the Caddyfile.d directory, and they will be included as long
+# as they use the .caddyfile extension.
+import Caddyfile.d/*.caddyfile
 
