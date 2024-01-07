@@ -167,7 +167,7 @@ paypal turistomore abc45....
 
 paypal andregraunt abc7........?
 
-yulia 1-e slovo?
+
 vultr valtr voltr vertvelt
 ezraezraezra10@
 Ax7},iYg6brK}Qb2,
@@ -181,7 +181,7 @@ freenom turistomore by google
 paypal pay pal
 turistomore abc456…
 paypal andregraunt abc7........?
-yulia 1-e slovo?
+
 
 namecheap
 andregraunt — user name
@@ -260,7 +260,7 @@ mi 22.03.2020  bituahsamsa101
 
 mi 22.06.2021 smitsmit10 bituah
 kodik code sisma
-5326 1023 1590 
+
 leumi 1174 kaspomat
 smitsmit104 mi 12.07.22 yaav
 smitsmit104 mi 12.07.22 leumi
@@ -302,7 +302,7 @@ paypal turistomore abc45....
 
 paypal andregraunt abc7........?
 
-yulia 1-e slovo?
+
 vultr valtr voltr vertvelt
 ezraezraezra10@
 Ax7},iYg6brK}Qb2,
@@ -316,7 +316,7 @@ freenom turistomore by google
 paypal pay pal
 turistomore abc456…
 paypal andregraunt abc7........?
-yulia 1-e slovo?
+
 
 namecheap
 andregraunt — user name
